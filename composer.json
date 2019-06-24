@@ -1,0 +1,12 @@
+{
+    "name": "vagrant/hello",
+    "description": "Says Hello",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Valentin Georgiev",
+            "email": "v.georgiev@larasoft.eu"
+        }
+    ],
+    "require": {}
+}
